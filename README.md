@@ -18,7 +18,7 @@ BluetoothKit tries to address the challenges this may cause by providing a much 
 
 ####Central
 - Scan for remote peripherals for a given time interval.
-- Continuously scan for remote peripherals for a give time interval, with an in-between delay until interrupted.
+- Continuously scan for remote peripherals for a given time interval, with an in-between delay until interrupted.
 - Connect to remote peripherals with a given time interval as time out.
 - Receive any size of data without having to worry about chunking.
 
